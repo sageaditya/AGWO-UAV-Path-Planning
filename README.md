@@ -1,0 +1,1 @@
+This project presents an Adaptive Grey Wolf Optimization (AGWO) driven UAV path planning system designed for safe and efficient navigation in cluttered 3D environments. The framework integrates benchmarking modules, dynamic obstacle simulation, and visualization tools to evaluate navigation performance under realistic mission constraints.
